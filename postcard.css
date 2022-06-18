@@ -51,21 +51,10 @@ h1 {
 
 .inputs {
   margin-top: 20px;
+  
 }
 
-.name {
-  font-size: 30px;
-  font-family: "Handlee";
-  border: none;
-  border-bottom: 1px solid grey;
-}
-.coment {
-  font-size: 30px;
-  font-family: "Handlee";
-  border: none;
-  border-bottom: 1px solid grey;
-}
-.email {
+input{
   font-size: 30px;
   font-family: "Handlee";
   border: none;
